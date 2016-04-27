@@ -8,4 +8,4 @@ composer require spryker/braintree
 
 ## Documentation
 
-[Braintree Documentation](https://spryker.github.io/braintree/index.html)
+[Braintree Documentation](http://spryker.github.io/core/bundles/braintree/)
